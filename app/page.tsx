@@ -45,7 +45,7 @@ export default function OnboardingPage() {
       {/* Logo */}
       <div className="p-6">
         <div className="flex items-center gap-2 w-fit">
-          <Image src="/logo.jpeg" alt="crow logo" width={40} height={40} className="rounded-full" />
+          <Image src="/logo.png" alt="crow logo" width={40} height={40} className="rounded-full" />
           <span className="text-2xl font-bold">crow</span>
         </div>
       </div>
